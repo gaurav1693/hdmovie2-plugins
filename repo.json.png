@@ -1,0 +1,15 @@
+{
+  "name": "Hdmovie2 Plugins",
+  "description": "Cloudstream plugin for hdmovie2.games",
+  "plugins": [
+    {
+      "name": "Hdmovie2",
+      "description": "Stream movies via hdmovie2.games",
+      "url": "https://yourusername.github.io/hdmovie2-plugins/hdmovie2.cs3plugin",
+      "languages": ["en"],
+      "id": "hdmovie2.plugin",
+      "version": "1.0.0",
+      "icon": "https://yourusername.github.io/hdmovie2-plugins/assets/hdmovie2.png"
+    }
+  ]
+}
